@@ -7,7 +7,7 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -23,12 +23,12 @@ Sessiebeschrijving: Ontdek de nieuwe kenmerken die het afgelopen jaar zijn gepub
 
 De inhoud is van toepassing op zowel Adobe Experience Manager as a Cloud Service als Experience Manager Managed Services, met nadruk op Cloud Service. Het is geschikt voor zowel technische als niet-technische deelnemers. Voorafgaande blootstelling aan Cloud Manager kan helpen bij de context, maar is niet nodig.
 
-## Webinar-opname
+**Webinar-opname**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
 >* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://adobe.ly/3O0rdzd)
->* Als u zich niet aanmeldt bij dit webinar, kunt u zich registreren bij [Adobe](https://aem-augs.adobe.com/) kennisgevingen te ontvangen over toekomstige webinars en AEM van GEM&#39;s.
+>* Meld u aan bij [Adobe](https://aem-augs.adobe.com/).
 
