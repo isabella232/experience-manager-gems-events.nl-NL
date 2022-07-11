@@ -1,30 +1,36 @@
 ---
-title: AEM Integrations - a solid foundation goes a long way
-description: While AEM work is pretty self-contained, we AT/AAM/AA consultants working with AEM need to collaborate with our AEM counterparts. This session gives a brief overview of AT/AAM/AA integrations using DTM, the things we look for, and why it all matters.
+title: AEM integratie - een solide basis gaat veel verder
+description: Hoewel AEM werk vrij zelfstandig is, moeten wij consultants van AT/AAM/AA die samenwerken met AEM, samenwerken met onze AEM. Deze zitting geeft een kort overzicht van integratie AT/AAM/AA gebruikend DTM, de dingen wij zoeken, en waarom het alle belangrijk is.
 uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 0%
+
 ---
 
-# AEM Integrations - a solid foundation goes a long way{#aem-integrations-a-solid-foundation-goes-a-long-way}
 
-While AEM work is pretty self-contained, we AT/AAM/AA consultants working with AEM need to collaborate with our AEM counterparts. This session gives a brief overview of AT/AAM/AA integrations using DTM, the things we look for, and why it all matters. If you ever wanted to know why people actually use AT/AAM/AA, or even AEM, this is your session.   AT = Adobe Target  AAM = Adobe Audience Manager  AA = Adobe Analytics  DTM = Dynamic Tag Management
+# AEM integratie - een solide basis gaat veel verder{#aem-integrations-a-solid-foundation-goes-a-long-way}
+
+Hoewel AEM werk vrij zelfstandig is, moeten wij consultants van AT/AAM/AA die samenwerken met AEM, samenwerken met onze AEM. Deze zitting geeft een kort overzicht van integratie AT/AAM/AA gebruikend DTM, de dingen wij zoeken, en waarom het alle belangrijk is. Als je ooit wilde weten waarom mensen AT/AAM/AA gebruiken, of zelfs AEM, is dit je sessie.   AT = Adobe Target AAM = Adobe Audience Manager AA = Adobe Analytics DTM = Dynamic Tag Management
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*Delivered September 27, 2017*
+*Geleverd op 27 september 2017*
 
-**Presented by:**
+**Gepresenteerd door:**
 
-Jan Exner, Mgr. Management Consultant, Adobe
+Jan Exner, Mgr. Beheerconsultant, Adobe
 
-**Presenter slides**
+**Presenter-dia&#39;s**
 
-[Get File](assets/170927-aem-gems-integrations.pdf)
+[Bestand ophalen](assets/170927-aem-gems-integrations.pdf)
 
-## Related links {#related-links}
+## Verwante koppelingen {#related-links}
 
-[Web Analytics for Developers](https://webanalyticsfordevelopers.com/)
+[Webanalyse voor ontwikkelaars](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

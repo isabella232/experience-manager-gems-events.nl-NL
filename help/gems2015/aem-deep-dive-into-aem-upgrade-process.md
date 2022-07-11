@@ -1,31 +1,37 @@
 ---
-title: Deep dive into AEM upgrade process
-description: Learn about the general upgrade scenario, upgrade extension points, and how we test the upgrade mechanisms. Learn some of the technical challenges related to upgrading. Get information about possible upgrade and side-grade scenarios, tips on how to make the process faster, and see advanced features.
+title: Diep duiken in AEM upgradeproces
+description: Leer over het algemene verbeteringsscenario, de punten van de verbeteringsuitbreiding, en hoe wij de verbeteringsmechanismen testen. Leer enkele technische uitdagingen met betrekking tot upgrades. U krijgt informatie over mogelijke upgrades en scenario's van de zijkwaliteit, tips voor het sneller maken van het proces en het bekijken van geavanceerde functies.
 uuid: 2468da9b-178a-4fff-bf8e-57a3b0548d5c
 discoiquuid: 86781dba-fe73-46f9-a5d0-a4f04c0c1fc5
 targetaudience: target-audience advanced
 exl-id: ecbb5db9-7286-4425-b023-ecb413f4ed1c
----
-# Deep dive into AEM upgrade process{#deep-dive-into-aem-upgrade-process}
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 0%
 
-Learn about the general upgrade scenario, upgrade extension points, and how we test the upgrade mechanisms. Learn some of the technical challenges related to upgrading. Get information about possible upgrade and side-grade scenarios, tips on how to make the process faster, and see advanced features.
+---
+
+# Diep duiken in AEM upgradeproces{#deep-dive-into-aem-upgrade-process}
+
+Leer over het algemene verbeteringsscenario, de punten van de verbeteringsuitbreiding, en hoe wij de verbeteringsmechanismen testen. Leer enkele technische uitdagingen met betrekking tot upgrades. U krijgt informatie over mogelijke upgrades en scenario&#39;s van de zijkwaliteit, tips voor het sneller maken van het proces en het bekijken van geavanceerde functies.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
-*Delivered October 14, 2015*
+*Geleverd op 14 oktober 2015*
 
-**Presented by:**
+**Gepresenteerd door:**
 
-* Bertrand Delacretaz, Principal Scientist, Adobe
+* Bertrand Delacdetailz, hoofdwetenschapper, Adobe
 * Tomek Rekawek Software Developer, Adobe
 
-Presenter slides - Delacretaz
+Presenter-dia&#39;s - Delacdetailz
 
-[Get File](assets/aemgems-upgrades-2015-bdelacretaz.pdf)
+[Bestand ophalen](assets/aemgems-upgrades-2015-bdelacretaz.pdf)
 
-Presenter slides - Rekawek
+Presenter-dia&#39;s - Rekawek
 
-[Get File](assets/aemgems-upgrades-2015-trekaewk.pdf)
+[Bestand ophalen](assets/aemgems-upgrades-2015-trekaewk.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

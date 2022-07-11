@@ -1,26 +1,32 @@
 ---
-title: How to get the most out of your DAM feature pack
-description: Learn about the DAM FP2 for AEM 5.6.1. This feature pack focuses on leveraging the Creative Projects functionality to offer you a unique way of managing assets sourcing. The session covers the step-by-step working of a creative project workflow for creating, editing, and uploading a shot list, and uploading assets against the shot list. It also covers reviewing and approving the uploaded assets You also learn the ability of Task surface configuration, Custom Project workflow templates, and product hierarchy creation.
+title: Het beste uit uw DAM-functiepakket halen
+description: Meer informatie over het DAM FP2 voor AEM 5.6.1. Dit functiepakket is gericht op het benutten van de functionaliteit van Creative Projecten om u een unieke manier te bieden om bronnen van middelen te beheren. De sessie behandelt de stapsgewijze bewerking van een creatieve projectworkflow voor het maken, bewerken en uploaden van een opnamelijst en het uploaden van elementen op de opnamelijst. Het behandelt ook het herzien van en het goedkeuren van de geüploade activa U leert ook de capaciteit van de het oppervlakconfiguratie van de Taak, het werkschemamalplaatjes van het Project van de Douane, en de verwezenlijking van de producthiërarchie.
 uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
 exl-id: 6290c4f2-44c3-4407-93b3-60e37a21a026
+source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
+workflow-type: tm+mt
+source-wordcount: '185'
+ht-degree: 0%
+
 ---
-# How to get the most out of your DAM Feature Pack{#how-to-get-the-most-out-of-your-dam-feature-pack}
 
-The DAM FP2 for AEM 5.6.1 is focused on leveraging the Creative Projects functionality to offer the AEM users a unique way of managing their assets sourcing. The session will cover the step-by-step working of a creative project workflow for:
+# Hoe u optimaal kunt profiteren van uw DAM-pakket met functies{#how-to-get-the-most-out-of-your-dam-feature-pack}
 
-* Creating/Editing/Uploading a shot list
-* Uploading assets against the shot list
-* Reviewing and Approving the uploaded assets 
+Het DAM FP2 voor AEM 5.6.1 is gericht op het benutten van de functionaliteit van Creative Projecten om de AEM gebruikers een unieke manier te bieden om hun bronnen van middelen te beheren. De sessie heeft betrekking op de stapsgewijze werking van een creatieve projectworkflow voor:
 
-The session will also demonstrate the ability of Task surface configuration, Custom Project workflow templates, Product hierarchy creation.
+* Een opnamelijst maken/bewerken/uploaden
+* Elementen uploaden op basis van de opnamelijst
+* De geüploade elementen controleren en goedkeuren
+
+De zitting zal ook de capaciteit van de het oppervlakconfiguratie van de Taak, de het werkschemamalplaatjes van het Project van de Douane, de verwezenlijking van de hiërarchie van het Product aantonen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*Delivered March 5, 2014*
+*Geleverd op 5 maart 2014*
 
-**Presented by:**
+**Gepresenteerd door:**
 
 Varun Nagpal, Computer Scientist, Adobe
 

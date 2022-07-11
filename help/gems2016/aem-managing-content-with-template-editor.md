@@ -1,32 +1,38 @@
 ---
-title: Managing your content with the template editor of Adobe Experience Manager
-description: With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood.
+title: Inhoud beheren met de sjablooneditor van Adobe Experience Manager
+description: Met Adobe Experience Manager 6.2 is een nieuwe sjablooneditor geïntroduceerd die nieuwe, krachtige manieren biedt om digitale eigenschappen te bouwen, te structureren en te configureren. Verken de functie vanuit een superauteur-perspectief om te begrijpen hoe verschillende paginasjablonen kunnen worden samengesteld en precies te bepalen welke auteurs van inhoud op de corresponderende pagina's mogen doen. Tot slot duik in de binnenmechanica om te begrijpen hoe het onder de kap werkt.
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: c4f5077f-9e10-4bcc-8f7a-60b67b282838
----
-# Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '223'
+ht-degree: 0%
 
-With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood. In this session: - Learn how the template editor can make sites more flexible - Have an overview of how the templating mechanics operate
+---
+
+# Inhoud beheren met de sjablooneditor van Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+
+Met Adobe Experience Manager 6.2 is een nieuwe sjablooneditor geïntroduceerd die nieuwe, krachtige manieren biedt om digitale eigenschappen te bouwen, te structureren en te configureren. Verken de functie vanuit een superauteur-perspectief om te begrijpen hoe verschillende paginasjablonen kunnen worden samengesteld en precies te bepalen welke auteurs van inhoud op de corresponderende pagina&#39;s mogen doen. Tot slot duik in de binnenmechanica om te begrijpen hoe het onder de kap werkt. In deze sessie: - Leer hoe de sjablooneditor sites flexibeler kan maken - Heb een overzicht van hoe de sjabloonmechanica werkt
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Delivered September 14, 2016*
+*Geleverd op 14 september 2016*
 
-**Presented by:**
+**Gepresenteerd door:**
 
-* Patrick Fauchere, Software Engineer, Adobe
+* Patrick Fauchere, software engineer, Adobe
 
-Chat expert,
+Chatexpert
 
-* Gabriel Walt, Product Manager, Adobe
+* Gabriel Walt, productmanager, Adobe
 
-**Presenter slides**
+**Presenter-dia&#39;s**
 
-[Get File](assets/aem-gems-91416-template-editor.pdf)
+[Bestand ophalen](assets/aem-gems-91416-template-editor.pdf)
 
-## Related links {#related-links}
+## Verwante koppelingen {#related-links}
 
-* [Page Templates](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Creating Page Templates](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+* [Paginasjablonen](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
+* [Paginasjablonen maken](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)

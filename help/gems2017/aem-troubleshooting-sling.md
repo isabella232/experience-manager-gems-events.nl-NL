@@ -1,39 +1,46 @@
 ---
-title: Troubleshooting Sling Content Distribution
-description: Sling Content Distribution (SCD) can be used in AEM for forward, reverse content distribution and synchronisation. In this session, we will provide details on how to troubleshoot and handle common issues with SCD. 
+title: Problemen met distributie van inhoud oplossen
+description: 'SCD (Sling Content Distribution) kan worden gebruikt in AEM voor voorwaartse, omgekeerde inhoudsdistributie en synchronisatie. In deze zitting, zullen wij details over verstrekken hoe te om gemeenschappelijke kwesties met SCD problemen op te lossen en te behandelen. '
 uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 3%
+
 ---
 
-# Troubleshooting Sling Content Distribution{#troubleshooting-sling-content-distribution}
 
-Sling Content Distribution (SCD) can be used in AEM for forward, reverse content distribution and synchronisation. In this session, we will provide details on how to troubleshoot and handle common issues with SCD.
+# Problemen met distributie van inhoud oplossen{#troubleshooting-sling-content-distribution}
+
+SCD (Sling Content Distribution) kan worden gebruikt in AEM voor voorwaartse, omgekeerde inhoudsdistributie en synchronisatie. In deze zitting, zullen wij details over verstrekken hoe te om gemeenschappelijke kwesties met SCD problemen op te lossen en te behandelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*Delivered August 23, 2017*
+*Geleverd op 23 augustus 2017*
 
-**Presented by:**
+**Gepresenteerd door:**
 
-Timothee Maret, Senior Developer, Adobe
+Timoth Maret, Senior Developer, Adobe
 
-**Presenter slides**
+**Presenter-dia&#39;s**
 
-[Get File](assets/aem-gems-scd.pdf)
+[Bestand ophalen](assets/aem-gems-scd.pdf)
 
-## Resources {#resources}
+## Bronnen {#resources}
 
-User Sychronization
+Synchronisatie van gebruikers
 
-* [AEM 6.3 Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [AEM 6.2 Documentation](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [AEM 6.1 Documentation](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
+* [AEM 6.3 Documentatie](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
+* [AEM 6.2 Documentatie](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
+* [AEM 6.1 Documentatie](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
 * [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Terug naar het overzicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
->* [Troubleshooting Sling Content Distribution](aem-troubleshooting-sling.md)
+>* [Indexeren en JCR-query AEM](aem-indexing-jcr-query.md)
+>* [Problemen met distributie van inhoud oplossen](aem-troubleshooting-sling.md)
+

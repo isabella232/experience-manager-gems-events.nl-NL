@@ -1,23 +1,29 @@
 ---
-title: Leveraging author-publish for AEM Screens
-description: Get a full production setup for AEM Screens and learn all necessary steps for publishing content onto Screens / Digital Signage player.
+title: Publiceren van auteurs voor AEM Screens gebruiken
+description: Ga voor AEM Screens naar volledige productieinstellingen en leer alle stappen die nodig zijn voor het publiceren van inhoud op schermen/Digital Signage-speler.
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '129'
+ht-degree: 0%
+
 ---
 
-# Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-In this Gems session we will do a full production setup for AEM Screens and explain all necessary steps for publishing content onto Screens / Digital Signage player. Learn how to leverage author-publish topology for AEM Screens. Preview the steps an author has to do to publish content updates and distribute them to the devices. Further, we will have a closer look on the architecture behind this flow. In addition, you will find out about the configuration needed for the publish cluster, replication and devices.
+# Publiceren van auteurs voor AEM Screens gebruiken{#leveraging-author-publish-for-aem-screens}
 
-**Presented by:**
+In deze Duitse sessie zullen we een volledige productie-installatie voor AEM Screens uitvoeren en alle noodzakelijke stappen voor het publiceren van inhoud op schermen/Digital Signage-speler uitleggen. Leer hoe te hefboomwerking auteur-publiceer topologie voor AEM Screens. Geef een voorvertoning weer van de stappen die een auteur moet uitvoeren om updates van inhoud te publiceren en deze naar de apparaten te distribueren. Verder zullen we de architectuur achter deze stroom nader bekijken. Bovendien zult u over de configuratie nodig voor publiceren cluster, replicatie en apparaten weten.
+
+**Gepresenteerd door:**
 
 Iulia Grumaz, Computer Scientist, Software Development, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*Delivered September 4, 2019*
+*Besteld op 4 september 2019*
 
-Presentation
+Presentatie
 
-[Get File](assets/leveraging-author-publish-aem-screens-final.pdf)
+[Bestand ophalen](assets/leveraging-author-publish-aem-screens-final.pdf)

@@ -1,22 +1,28 @@
 ---
-title: Streamlining multilingual content process
-description: Learn about best practices to streamline the process of multilingual content creation and localization for your users to perform their tasks without having to leave the CQ user interface. AEM and Translations.com GlobalLink® technologies are seamlessly integrated with the users in mind. Watch Keith demonstrate how to set up and configure multilingual websites using MSM, language copy, and GlobalLink®. With a live demo to show just how easy it is for your users.
+title: Het stroomlijnen van meertalig inhoudsproces
+description: Leer over beste praktijken om het proces van het creëren van meertalige inhoud en localisatie voor uw gebruikers te stroomlijnen om hun taken uit te voeren zonder het moeten de gebruikersinterface van CQ verlaten. AEM en Translations.com GlobalLink®-technologieën zijn naadloos geïntegreerd met het oog op de gebruikers. Bekijk Keith en laat zien hoe u meertalige websites kunt instellen en configureren met MSM, taalkopie en GlobalLink®. Met een live demo kunt u zien hoe eenvoudig het is voor uw gebruikers.
 uuid: c4900ed3-f85b-4139-8e42-b5d1c03c36da
 discoiquuid: 77f623b6-4ca9-4122-9a48-5efe4d118865
 targetaudience: target-audience advanced
 exl-id: 3a6811cf-f74d-4915-9a02-896733ea874f
----
-# Streamlining multilingual content process{#streamlining-multilingual-content-process}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 0%
 
-Are you looking for best practices to streamline the process of multilingual content creation and localization for your users to perform their tasks without having to leave the CQ user interface? This session is for you! AEM and Translations.com GlobalLink® technologies are seamlessly integrated with the users in mind. In this session, Keith demonstrates how to set up and configure multilingual websites using MSM, Language Copy, and GlobalLink®. With a live demo to show just how easy it is for your users.
+---
+
+# Het stroomlijnen van meertalig inhoudsproces{#streamlining-multilingual-content-process}
+
+Bent u op zoek naar best practices om het proces van het maken en lokaliseren van meertalige inhoud te stroomlijnen zodat uw gebruikers hun taken kunnen uitvoeren zonder de gebruikersinterface van CQ te hoeven verlaten? Deze sessie is voor u! AEM en Translations.com GlobalLink®-technologieën zijn naadloos geïntegreerd met het oog op de gebruikers. In deze zitting, toont Keith hoe te opstelling en meertalige websites te vormen gebruikend MSM, het Exemplaar van de Taal, en GlobalLink®. Met een live demo kunt u zien hoe eenvoudig het is voor uw gebruikers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
 
-*Delivered October 30, 2013*
+*Geleverd op 30 oktober 2013*
 
-**Presented by:**
+**Gepresenteerd door:**
 
-Keith Brazil, VP of Technology, Translations.com
+Keith Brazilië, VP of Technology, Translations.com
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,33 +1,39 @@
 ---
-title: Technical deep dive into the AEM 6 platform
-description: Deep dive into the new repository architecture and learn the key differences and improvements for developers and operations teams.
+title: Technische diepte in het platform AEM 6
+description: Diep duiken in de nieuwe opslagplaats architectuur en leren de belangrijkste verschillen en verbeteringen voor ontwikkelaars en verrichtingenteams.
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
 exl-id: eb04fd9f-acc5-4ef2-afee-806d00b60326
+source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 1%
+
 ---
-# Technical deep dive into the AEM 6 platform{#technical-deep-dive-into-the-aem-platform}
 
-AEM 6 comes with a fresh new repository backend designed for improved performance and scalability. This session will provide a deep dive into the new repository architecture and describe the key differences and improvements for developers and operations teams. Topics covered include: 
+# Technische diepte in het platform AEM 6{#technical-deep-dive-into-the-aem-platform}
 
-* Content migration
-* Backwards compatibility
-* Key deployment scenarios
-* Custom search indexes
+AEM 6 wordt geleverd met een nieuwe opslagplaats met een nieuwe opslagplaats die is ontworpen voor verbeterde prestaties en schaalbaarheid. Deze sessie zal een diepgaande analyse geven van de nieuwe architectuur in de opslagplaats en de belangrijkste verschillen en verbeteringen voor ontwikkelaars en operationele teams beschrijven. De behandelde onderwerpen omvatten:
+
+* Contentmigratie
+* Achterwaartse compatibiliteit
+* Belangrijkste implementatiescenario&#39;s
+* Aangepaste zoekindexen
 
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
-*Delivered June 18, 2014*
+*Geleverd op 18 juni 2014*
 
-**Presented by:**
+**Gepresenteerd door:**
 
 Jukka Zitting, Senior Developer, Adobe
 
-**Presenter slides**
+**Presenter-dia&#39;s**
 
-[Get File](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
+[Bestand ophalen](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 
-## Related links {#related-links}
+## Verwante koppelingen {#related-links}
 
-* [AEM Upgrade Documentation](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [Presentation from ApacheCon "Oak, the architecture of Apache Jackrabbit 3"](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [AEM Upgrade uitvoeren van documentatie](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* [Presentatie van ApacheCon &quot;Oak, de architectuur van Apache Jackrabbit 3&quot;](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
