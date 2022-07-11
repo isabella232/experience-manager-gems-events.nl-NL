@@ -1,34 +1,28 @@
 ---
-title: AEM 6.5 klaar voor de wereld - integratie van vertalingen en beste praktijken
-description: Leer over de huidige AEM vertaalmogelijkheden en beste praktijken voor het beheren van meertalige websites. Leer hoe u algemene websites kunt structureren, taalkopieën, live kopieën en MSM kunt gebruiken. Met geavanceerde functies kunt u content eenvoudiger, sneller en beheerbaarder vertalen.
+title: AEM 6.5 ready for the world - translation integration & best practices
+description: Learn about current AEM translation capabilities and best practices for managing multilingual web sites. Learn how to structure global websites, use language copies, live copies, and MSM. Achieve easier, faster, and more manageable content translation using advance features.
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
-
 ---
 
+# AEM 6.5 ready for the world - translation integration & best practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-# AEM 6.5 klaar voor de wereld - integratie van vertalingen en beste praktijken{#aem-ready-for-the-world-translation-integration-best-practices}
+This session presents current AEM translation capabilities and best practices for managing multilingual web sites. You learn how to structure global websites and use language copies, live copies, and MSM. The session also covers how to achieve easier, faster, and more manageable content translation using advance features.
 
-Deze sessie biedt de huidige AEM vertaalmogelijkheden en de beste praktijken voor het beheer van meertalige websites. U leert hoe u algemene websites kunt structureren en taalkopieën, live kopieën en MSM kunt gebruiken. De sessie gaat ook over hoe u met geavanceerde functies content eenvoudiger, sneller en beheerbaarder kunt vertalen.
+**Presented by:**
 
-**Gepresenteerd door:**
-
-* Ankur Sial, computerwetenschapper, Adobe
-* Harpreet Neelu, Programmabeheerder, Adobe
+* Ankur Sial, Computer Scientist, Adobe
+* Harpreet Neelu, Program Manager, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*Geleverd 22-01-2020*
+*Delivered 01/22/2020*
 
-**Presenter-dia&#39;s**
+**Presenter slides**
 
-[Bestand ophalen](assets/gems-2020-translations.pdf)
+[Get File](assets/gems-2020-translations.pdf)
 
-Zitting Q en A - februari 2020 PDF
+Session Q and A - February 2020 PDF
 
-[Bestand ophalen](assets/aem-gems-translationqnafeb2020.pdf)
+[Get File](assets/aem-gems-translationqnafeb2020.pdf)

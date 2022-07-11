@@ -1,33 +1,27 @@
 ---
-title: Dag 2 - Een nieuw en verbeterd instrument voor stresstests en benchmarking
-description: '"Tough Day" was een testinstrument dat dagelijkse ladingen simuleerde in worstcasescenario''s waarbij alle bewerkingen tegelijkertijd werden uitgevoerd. We hebben de feedback van onze gebruikers in de loop der jaren verzameld en besloten deze opnieuw te schrijven om aan de eisen te voldoen.'
+title: Toughday2 - A new and improved stress testing and benchmarking tool
+description: “Tough Day” was a testing tool that simulated daily loads in worst-case scenarios with all the operations going on at the same time. We’ve gathered the feedback given by our users throughout the years and decided to rewrite it to meet the demands.
 uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 0%
-
 ---
 
+# Toughday2 - A new and improved stress testing and benchmarking tool{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 
-# Dag 2 - Een nieuw en verbeterd instrument voor stresstests en benchmarking{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
-
-&quot;Tough Day&quot; was een testinstrument dat dagelijkse ladingen simuleerde in worstcasescenario&#39;s waarbij alle bewerkingen tegelijkertijd werden uitgevoerd. We hebben de feedback van onze gebruikers in de loop der jaren verzameld en besloten deze opnieuw te schrijven om aan de eisen te voldoen. Voor uw eigen doel zal Toughday2 na de zitting openbaar beschikbaar zijn. Ik verzoek u om de resultaten in een live demo te bekijken en over de wijzigingen te spreken.
+“Tough Day” was a testing tool that simulated daily loads in worst-case scenarios with all the operations going on at the same time. We’ve gathered the feedback given by our users throughout the years and decided to rewrite it to meet the demands. For your own purpose Toughday2 will be publicly available after the session. Please join us to see the results in a live demo and to talk about the changes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
-*Geleverd op 21 juni 2017*
+*Delivered June 21, 2017*
 
-**Gepresenteerd door:**
+**Presented by:**
 
 * Catalin Luta, QE Developer, Adobe
 * Andrei Stefan Tuicu, QE Developer, Adobe
 
-**Presenter-dia&#39;s**
+**Presenter slides**
 
-[Bestand ophalen](assets/aem-gems-toughday2.pdf)
+[Get File](assets/aem-gems-toughday2.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

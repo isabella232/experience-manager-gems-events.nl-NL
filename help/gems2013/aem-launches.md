@@ -1,36 +1,30 @@
 ---
-title: AEM starten - Meerdere versies van een website tegelijk voorbereiden (AEM 5.6)
-description: Leer hoe u AEM Startpagina's kunt gebruiken om tegelijkertijd te werken aan meerdere versies van dezelfde site en de wijzigingen tussen deze versies te synchroniseren. Ontdek hoe AEM Launches geïntegreerd is in AEM en leer over de basismechanismen ervan.
+title: AEM Launches - concurrent preparation of multiple versions of a website (AEM 5.6)
+description: Learn how to use AEM Launches to work concurrently on multiple versions of a same site, and sync changes between them. Discover how AEM Launches has been integrated in AEM, and learn about its basic mechanisms.
 uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
 exl-id: c3b2270b-843c-4998-a909-7b4953e495e3
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
-
 ---
+# AEM Launches: concurrent preparation of multiple versions of a website (AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
 
-# Starten AEM: gelijktijdige voorbereiding van meerdere versies van een website (AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
-
-Adobe Experience Manager biedt functies waarmee u eenvoudig digitale inhoud kunt maken en publiceren via websites en mobiele sites. Maar de makers van de inhoud willen wellicht tegelijkertijd werken aan meerdere versies van dezelfde site en de wijzigingen tussen deze versies synchroniseren. Dit is haalbaar met de AEM Launches. Tijdens deze sessie leert u hoe de functie is geïntegreerd in AEM en begrijpt u de basismechanismen ervan.
+Adobe Experience Manager provides features to easily create and publish digital content over websites and mobile sites. But content creators may want to work concurrently on multiple versions of a same site and sync changes between them. This is achievable by using the AEM Launches. During this session, you will discover how the feature has been integrated in AEM and understand its basic mechanisms.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*Geleverd op 12 juni 2013*
+*Delivered June 12, 2013*
 
-**Gepresenteerd door:**
+**Presented by:**
 
 Gilles Knobloch, Lead Developer, Adobe
 
-**Presenter-dia&#39;s**
+**Presenter slides**
 
-[Bestand ophalen](assets/2013-06-12-launches-cqgems.pdf)
+[Get File](assets/2013-06-12-launches-cqgems.pdf)
 
-## Verwante koppelingen {#related-links}
+## Related links {#related-links}
 
-[Documentatie](http://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
+[Documentation](http://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

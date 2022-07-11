@@ -1,32 +1,26 @@
 ---
-title: In real time en lichtgewicht - bouw gebeurtenis-gedreven integratie met AEM gebruikend de Gebeurtenissen van Adobe I/O
-description: Hebt u genoeg van het maken van connectors voor AEM? Kom te leren hoe u om het even welke interne gebeurtenissen OSGi van AEM door de Gebeurtenissen van Adobe I/O kunt blootstellen om gebeurtenis-gedreven werkschema's over veelvoudige systemen met gemak te bouwen. Met I/O-gebeurtenissen kunt u zowel op beheergebeurtenissen als op klantengedrag in real-time reageren.
+title: Real-time and lightweight - build event-driven integrations with AEM using Adobe I/O Events
+description: Tired of building connectors for AEM? Come learn how you can expose any internal OSGi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time.
 uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
-
 ---
 
+# Real-time and lightweight: build event-driven integrations with AEM using Adobe I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
 
-# In real time en licht: gebeurtenisgestuurde integratie met AEM maken met behulp van Adobe I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
-
-Hebt u genoeg van het maken van connectors voor AEM? Kom te leren hoe u om het even welke interne gebeurtenissen OSGi van AEM door de Gebeurtenissen van Adobe I/O kunt blootstellen om gebeurtenis-gedreven werkschema&#39;s over veelvoudige systemen met gemak te bouwen. Met I/O-gebeurtenissen kunt u zowel op beheergebeurtenissen als op klantengedrag in real-time reageren.
+Tired of building connectors for AEM? Come learn how you can expose any internal OSGi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*Afgeleverd op 16 mei 2018*
+*Delivered May 16, 2018*
 
-**Gepresenteerd door:**
+**Presented by:**
 
 Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 
-**Presenter-dia&#39;s**
+**Presenter slides**
 
-[Bestand ophalen](assets/gem-2018-05-aem-events.pdf)
+[Get File](assets/gem-2018-05-aem-events.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

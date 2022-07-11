@@ -1,50 +1,44 @@
 ---
-title: OSGi R7 gebruiken in AEM
-description: De versie OSGi R7 vertegenwoordigt vele significante nieuwe eigenschappen en mogelijkheden en verstrekt een open op norm-gebaseerde benadering voor een aantal moderne waardevolle en eenvoudig-aan-gebruikstechnologieën belangrijk voor de ontwikkelaars van Java.
+title: Using OSGi R7 in AEM
+description: The OSGi R7 release represents many significant new features and capabilities and provides an open standards-based approach for a number of modern valuable and simple-to-use technologies important to Java developers.
 uuid: a173cd38-d646-4748-b8d0-8a726f1c3be8
 discoiquuid: da05c4fb-e8b7-4f01-b588-dea904eaddf9
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
-
 ---
 
+# Using OSGi R7 in AEM{#using-osgi-r-in-aem}
 
-# OSGi R7 gebruiken in AEM{#using-osgi-r-in-aem}
+The OSGi R7 release represents many significant new features and capabilities and provides an open standards-based approach for a number of modern valuable and simple-to-use technologies important to Java developers.  New features include (amongst others):
 
-De versie OSGi R7 vertegenwoordigt vele significante nieuwe eigenschappen en mogelijkheden en verstrekt een open op norm-gebaseerde benadering voor een aantal moderne waardevolle en eenvoudig-aan-gebruikstechnologieën belangrijk voor de ontwikkelaars van Java.  Nieuwe functies zijn onder andere:
-
-* Aanmeldingsservices bijwerken
-* Nieuwe bundelannotaties
+* Declarative Services update
+* New Bundle Annotations
 * Push Streams and Promises
 * Converter
-* Http-whiteboard
-* Configurator- en configuratiebeheer
-* Java 9-ondersteuning
+* Http Whiteboard
+* Configurator and Configuration Admin
+* Java 9 support
 
-In deze zitting, zullen wij de interessantste toevoegingen in OSGi R7 benadrukken en verklaren met nadruk op wat met AEM 6.4 reeds kan worden gebruikt.
+In this session, we will highlight and explain the most interesting additions in OSGi R7 with a focus on what can be used with AEM 6.4 already. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 
-*Geleverd 17-10-18*
+*Delivered 10/17/18*
 
-**Gepresenteerd door:**
+**Presented by:**
 
-* Karl Pauls, Computer Scientist, Adobe
-* Carsten Ziegeler, hoofdwetenschapper, Adobe
+* Karl Pauls, Computer Scientist, Adobe  
+* Carsten Ziegeler, Principal Scientist, Adobe
 * David Bosschaert, Senior Software Engineer, Adobe
 
-Datum: 17-10-2018
+Date: 10/17/2018
 
-[Bestand ophalen](assets/aem-gems-osg-r7inaem-10172018.pdf)
+[Get File](assets/aem-gems-osg-r7inaem-10172018.pdf)
 
-## Verwante koppelingen {#related-links}
+## Related links {#related-links}
 
 [OSGi Alliance Blog](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[OSGi-specificatielicentie, versie 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[OSGi Specification License, Version 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
 [OSGi Compendium Release 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 

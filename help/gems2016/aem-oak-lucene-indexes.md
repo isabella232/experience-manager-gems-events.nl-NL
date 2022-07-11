@@ -1,39 +1,33 @@
 ---
-title: Eak Lucene-indexen
-description: Wij beschrijven de eigenschappen van de indexen van Luik en hoe zij kunnen worden gebruikt om uw vragen te krijgen presteren beter. In het tweede deel zullen we het hebben over hoe asynchrone indexering in het algemeen werkt en hoe het kan worden gecontroleerd.
+title: Oak Lucene Indexes
+description: We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: 5eaed3e2-9bb5-400e-950e-8a6161590acc
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
-
 ---
+# Oak Lucene Indexes{#oak-lucene-indexes}
 
-# Eak Lucene-indexen{#oak-lucene-indexes}
-
-Wij beschrijven de eigenschappen van de indexen van Luik en hoe zij kunnen worden gebruikt om uw vragen te krijgen presteren beter. In het tweede deel zullen we het hebben over hoe asynchrone indexering in het algemeen werkt en hoe het kan worden gecontroleerd.
+We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
-*Geleverd op 20 januari 2016*
+*Delivered January 20, 2016*
 
-**Gepresenteerd door:**
+**Presented by:**
 
 * Chetan Mehrotra, Senior Computer Scientist, Adobe
 * Alex Parvulescu, Senior Developer, Adobe
 
-**Presenter-dia&#39;s**
+**Presenter slides**
 
-[Bestand ophalen](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
+[Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-**Sessievragen en -antwoorden**
+**Session Questions and Answers**
 
-[Bestand ophalen](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
+[Get File](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
-## Verwante koppelingen {#related-links}
+## Related links {#related-links}
 
-* [Oak-query&#39;s en indexering](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Oak-documentatie: Lucene-index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+* [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

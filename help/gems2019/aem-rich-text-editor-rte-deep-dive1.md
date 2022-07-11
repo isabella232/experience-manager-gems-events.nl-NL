@@ -1,31 +1,25 @@
 ---
-title: AEM Rich Text Editor (RTE) Diep duiken
-description: Leer de Beste praktijken rond de rijke configuraties en het gebruik van RTE in AEM. Wij zullen verschillende gebruik-gevallen, beperkingen, valkuilen, configuratiewerkschema en gemeenschappelijke het oplossen van problemenstappen behandelen terwijl het gebruiken van RTE in AEM. Wij zullen ook op zijn bevel-Insteekmodule Architectuur en kernconcepten zoals de Regels van HTML, Kernel en de-rangschikking raken.
+title: AEM Rich Text Editor (RTE) Deep Dive
+description: Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
 uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 0%
-
 ---
 
+# AEM Rich Text Editor (RTE) Deep Dive{#aem-rich-text-editor-rte-deep-dive}
 
-# AEM Rich Text Editor (RTE) Diep duiken{#aem-rich-text-editor-rte-deep-dive}
+Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
 
-Leer de Beste praktijken rond de rijke configuraties en het gebruik van RTE in AEM. Wij zullen verschillende gebruik-gevallen, beperkingen, valkuilen, configuratiewerkschema en gemeenschappelijke het oplossen van problemenstappen behandelen terwijl het gebruiken van RTE in AEM. Wij zullen ook op zijn bevel-Insteekmodule Architectuur en kernconcepten zoals de Regels van HTML, Kernel en de-rangschikking raken.
-
-## AEM Rich Text Editor (RTE) Diep duiken
+## AEM Rich Text Editor (RTE) Deep Dive
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*Geleverd 17-04-19*
+*Delivered 04/17/19*
 
-**Gepresenteerd door:**
+**Presented by:**
 
 Hanish Bansal, Computer Scientist, Adobe
 
-Presentatordia&#39;s, datum: 17-04-2019
+Presenter slides, Date: 04/17/2019
 
-[Bestand ophalen](assets/aem-gems-aem-rte-04172019.pdf)
+[Get File](assets/aem-gems-aem-rte-04172019.pdf)

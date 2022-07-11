@@ -1,36 +1,30 @@
 ---
-title: AEM 6.3 Klaar voor de wereld - Vertaalintegratie & Beste praktijken
-description: 'In deze sessie presenteren we AEM 6.3-mogelijkheden en best practices voor het beheer van meertalige websites. U leert hoe u algemene websites in AEM kunt structureren, hoe u taalkopieën, live kopieën en MSM kunt gebruiken en hoe u vertaalserviceproviders kunt integreren om vertaalprojecten met succes te voltooien. '
+title: AEM 6.3 Ready for the World - Translation Integration & Best Practices
+description: In this session, we will present AEM 6.3 capabilities and best practices for managing multilingual web sites. You will learn how to structure global websites in AEM, how to use language copies, live copies and MSM, and how to integrate translation service providers for successful completion of translation projects. 
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 0%
-
 ---
 
+# AEM 6.3 Ready for the World - Translation Integration & Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-# AEM 6.3 Klaar voor de wereld - Vertaalintegratie &amp; Beste praktijken{#aem-ready-for-the-world-translation-integration-best-practices}
-
-In deze sessie presenteren we AEM 6.3-mogelijkheden en best practices voor het beheer van meertalige websites. U leert hoe u algemene websites in AEM kunt structureren, hoe u taalkopieën, live kopieën en MSM kunt gebruiken en hoe u vertaalserviceproviders kunt integreren om vertaalprojecten met succes te voltooien.
+In this session, we will present AEM 6.3 capabilities and best practices for managing multilingual web sites. You will learn how to structure global websites in AEM, how to use language copies, live copies and MSM, and how to integrate translation service providers for successful completion of translation projects. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*Geleverd op 25 oktober 2017*
+*Delivered October 25, 2017*
 
-**Gepresenteerd door:**
+**Presented by:**
 
-Leandro Reis, globalization architect, Adobe Core Services\
+Leandro Reis, Globalization Architect, Adobe Core Services   
 Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
-**Presenter-dia&#39;s**
+**Presenter slides**
 
-[Bestand ophalen](assets/immerse-2017-translationpresentation-rev1.pdf)
+[Get File](assets/immerse-2017-translationpresentation-rev1.pdf)
 
-## Verwante koppelingen {#related-links}
+## Related links {#related-links}
 
-* [AEM Sites-vertaaldocumenten](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
-* [Meertalige middelen beheren](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [Documentatie over best practices voor vertaling](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+* [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html  )
+* [Managing Multilingual Assets](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
+* [Translation Best Practices Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
