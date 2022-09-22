@@ -1,7 +1,7 @@
 ---
 title: Hoofdletters/kleine letters van klant en implementatie van AEM headless in gebruik
 description: Sessieaankondiging
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
