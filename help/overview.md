@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessies
-source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,34 @@ ht-degree: 0%
 # Adobe Experience Manager Gems
 
 <img alt="Digitale ervaringen" src="./assets/ADX_Gems.png"/>
+
+## Opkomende AEM GEMs-gebeurtenissen!
+
+<!---  Remove the comment marks, and put the upcoming event in the below table
+
+<table style="max-width: 1214px;">
+<tr>
+  <td style="vertical-align: top;">
+    <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+      <img alt="Experience League LIVE Oct 25" src="assets/Oct25_2022_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+        <strong>Deliver the right offer at the right time with decision management</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Ben Tepfer, Brandon Poyfair, and Jason Hickey</em>
+      <br/><em>October 25, 2022</em>
+    </div>
+  </td>
+</tr>
+</table>
+
+--->
+In november 2022 zal meer informatie beschikbaar zijn over toekomstige AEM GEM&#39;s.
+
+>[!NOTE]
+>
+> Meld u aan om op de hoogte te worden gesteld van komende GEMS-sessies op [Adobe](https://aem-augs.adobe.com/).
 
 ## 2022 Herstart van AEM GEM&#39;s
 
@@ -32,10 +60,9 @@ De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 * Opname beschikbaar na elk webinar
 * Webinar is gratis
 
-## Volgende webinar en registratie
-
 Al onze AEM GEM&#39;s-webinars zijn gratis en worden praktisch uitgevoerd.
-* Meld u aan bij [Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van onze komende webinars.
+
+Registreren bij [Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van onze komende webinars.
 
 ## Gemeenschap Experience League
 
