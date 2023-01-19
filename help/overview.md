@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessies
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -43,13 +43,12 @@ ht-degree: 0%
 </table>
 
 --->
-Opkomende AEM GEM&#39;s Webinar: *AEM Best Practices Analyzer voor omgevingen op locatie en AMS*.
-Timing: 18 januari, 17:00 uur CET / 8.00 uur PST / 9.30 uur IST Resource: [Analyse van beste praktijken AEM](/help/gems2022/aem-best-practices-analyzer.md)
-Registratie: [Webinar-registratie](https://aem-augs.adobe.com/e/mz8eae/)
+Recentste AEM GEM&#39;s Webinar: *AEM Best Practices Analyzer voor omgevingen op locatie en AMS*.
+Uitgevoerd: 18 januari, 17:00 uur CET / 8.00 uur PST / 9.30 uur IST Resource: [Analyse van beste praktijken AEM](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> Meld u aan om op de hoogte te worden gesteld van komende GEMS-sessies op [Adobe](https://aem-augs.adobe.com/).
+> Meld u aan voor kennisgeving op komende AEM GEM&#39;s-webinars op [Adobe](https://aem-augs.adobe.com/).
 
 ## 2022 Herstart van AEM GEM&#39;s
 
@@ -76,8 +75,8 @@ Ons [Gemeenschap Experience Manager](https://experienceleaguecommunities.adobe.c
 
 ## Vorige webinar-opname
 
-Onze laatste webinar ging over **Integreer AEM en CIF kader om een rijke en immersive e-commerce ervaring te bouwen** en is uitgevoerd op 27 april.
+Onze laatste webinar ging over **AEM Best Practices Analyzer voor omgevingen op locatie en AMS** en is uitgevoerd op 18 januari 2023.
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-Dit webinar werd gepresenteerd door Kunal Gaba en Vinay Kumar, beide technische architecten bij Adobe.
+Voor sessiedetails zoals een beschrijving en informatie van de presentator gaat u naar [Analyse van beste praktijken AEM](/help/gems2023/aem-best-practices-analyzer.md).
