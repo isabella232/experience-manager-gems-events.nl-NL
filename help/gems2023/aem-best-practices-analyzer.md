@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # AEM Best Practices Analyzer voor omgevingen op locatie en AMS
 
-## Timing: 18 januari 2023
-
-## Registratie
-
-Voor dit webinar kunt u zich via [Gebruikersgroep Adobe AEM](https://aem-augs.adobe.com/).
+## Dit webinar is afgeleverd op 18 januari 2023 - bekijk de onderstaande opname
 
 ## Beschrijving
 
@@ -34,3 +30,12 @@ De analyse AEM Best Practices is niet van toepassing op AEM as a Cloud Service o
 * Kiran Murugula, Senior Cloud Architect, Adobe
 * Vaibhav Varshney, Computer Scientist, Adobe
 * Himani Chauhan, Computer Scientist, Adobe
+
+## Webinar Recording - 18-01-2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://bit.ly/3Z6AyM1)
+>* Meld u aan bij [Adobe](https://aem-augs.adobe.com/).
