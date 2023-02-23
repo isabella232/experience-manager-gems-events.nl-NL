@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessies
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,8 @@ ht-degree: 0%
 </table>
 
 --->
-*Adobe Experience Manager Cloud Service-ontwikkeling versnellen met Rapid Development Environment*
-Datum: 22 februari, 17:00 uur CET / 8 uur PST / 9.30 uur IST Resource: [AEM webinar voor snelle ontwikkelomgevingen](/help/gems2023/Rapid-Development-Environments.md)
+Onze nieuwste AEM GEM&#39;s webinar op *Adobe Experience Manager Cloud Service-ontwikkeling versnellen met Rapid Development Environment* is uitgevoerd op 22 februari 2023.
+De opname vindt u hier: [AEM webinar voor snelle ontwikkelomgevingen](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
@@ -73,10 +73,4 @@ Ons [Gemeenschap Experience Manager](https://experienceleaguecommunities.adobe.c
 * Snelle antwoorden: Uitgebreide pool van praktijkoplossingen voor gebruiksscenario&#39;s ter ondersteuning van succesvol actief gebruik van Adobe-oplossingen
 * Ideatie en feedback: De ideeën van het klantenproduct van de inname en verstrekken waardevolle VoC terugkoppelen aan productteams
 
-## Vorige webinar-opname
 
-Onze laatste webinar ging over **AEM Best Practices Analyzer voor omgevingen op locatie en AMS** en is uitgevoerd op 18 januari 2023.
-
->[!VIDEO](https://video.tv.adobe.com/v/3413364/)
-
-Voor sessiedetails zoals een beschrijving en informatie van de presentator gaat u naar [Analyse van beste praktijken AEM](/help/gems2023/aem-best-practices-analyzer.md).
