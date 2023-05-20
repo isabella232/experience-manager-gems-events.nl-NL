@@ -7,7 +7,8 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
+exl-id: 3b1aece7-72a0-4948-80de-b4d87479aa60
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -39,3 +40,4 @@ De analyse AEM Best Practices is niet van toepassing op AEM as a Cloud Service o
 >
 >* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://bit.ly/3Z6AyM1)
 >* Meld u aan bij [Adobe](https://aem-augs.adobe.com/).
+

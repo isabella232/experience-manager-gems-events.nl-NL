@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
+exl-id: 262360f8-95af-4fe1-90c5-5490cea00c6c
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Het versnellen AEM as a Cloud Service ontwikkeling met Snelle Ontwikkelomgevingen
 
@@ -41,3 +41,4 @@ RDEs staat ontwikkelaars toe om veranderingen snel op te stellen en te herzien, 
 >
 >* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](http://bit.ly/3x1Cl8x)
 >* Als je berichten wilt ontvangen over onze komende webinars, kun je je inschrijven op [Adobe](https://aem-augs.adobe.com/).
+

@@ -6,7 +6,8 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
+exl-id: 05c19b41-69d5-4400-85be-38e5a55ef2c1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -38,7 +39,7 @@ In deze zitting zullen wij het volgende behandelen:
 Presentator: Debal Das - Senior System Analyst, IBM
 
 **Sessiebeschrijving:**
-In deze sessie zullen we het verbruik van GraphQL van inhoudsfragmenten behandelen (naast de reeds bestaande JSON-API&#39;s).
+In deze sessie zullen we het gebruik van GraphQL-inhoudsfragmenten behandelen (naast de reeds bestaande JSON-API&#39;s).
 
 Conceptueel, is GraphQL gelijkaardig aan een SQL gegevensbestandvraag, met uitzondering dat API voor de vraag eerder dan een gegevensbestand wordt gebruikt.
 
@@ -52,3 +53,4 @@ Dit elimineert het vereiste voor API om vele eindpunten te verstrekken die diver
 >
 >* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://adobe.ly/3r6P4nr)
 >* Meld u aan bij [Adobe](https://aem-augs.adobe.com/).
+

@@ -1,16 +1,16 @@
 ---
 title: In het teerpit - een TarMK diep duiken
-description: 'Heb je je ooit afgevraagd wat er in de teerbestanden van TarMK zit? Wat is een segment en wat is een record? Hoe werkt de segmentopslag huisvuilinzameling en waarom (of waarom niet)? Deze sessie beantwoordt deze vragen en nog veel meer. '
+description: Heb je je ooit afgevraagd wat er in de teerbestanden van TarMK zit? Wat is een segment en wat is een record? Hoe werkt de segmentopslag huisvuilinzameling en waarom (of waarom niet)? Deze sessie beantwoordt deze vragen en nog veel meer.
 uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 7ee324b8-f4b9-490d-b13d-b73d72385980
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # In het teerpit: een TarMK diep duiken{#into-the-tar-pit-a-tarmk-deep-dive}
 

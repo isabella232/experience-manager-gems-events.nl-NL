@@ -4,13 +4,13 @@ description: Alles begint met de Adobe Experience Platform. Ontdek hoe het platf
 uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 1a75ea51-6205-4ad8-b60b-f741a89ef443
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Platform - Het hart van Experience Cloud{#adobe-experience-platform-the-heart-of-experience-cloud}
 

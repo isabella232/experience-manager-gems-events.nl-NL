@@ -4,13 +4,13 @@ description: Deze zittingen van Gems wordt gewijd aan een dichtere blik op imple
 uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: de02f5b7-271a-4844-8161-e9611b1b064f
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
-
 
 # Diep duik op implementatiedetails van opslag, modules en segmenten in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 

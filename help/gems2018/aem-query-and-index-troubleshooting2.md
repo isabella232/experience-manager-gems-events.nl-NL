@@ -1,16 +1,16 @@
 ---
 title: Problemen met zoeken en indexen AEM
-description: 'Dit is een voortzetting van de sessie van vorig jaar AEM Indexing en JCR Query (Link hieronder). Het zal dezelfde onderwerpen behandelen, maar met alle nieuwe inhoud en heeft weinig overlapping met de oudere presentatie. Ook zijn er nieuwe functies van AEM 6.4 opgenomen. '
+description: Dit is een voortzetting van de sessie van vorig jaar AEM Indexing en JCR Query (Link hieronder). Het zal dezelfde onderwerpen behandelen, maar met alle nieuwe inhoud en heeft weinig overlapping met de oudere presentatie. Ook zijn er nieuwe functies van AEM 6.4 opgenomen.
 uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+exl-id: 6bd4194a-0e72-497e-8a80-20c60f1c74b9
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Problemen met zoeken en indexen AEM{#aem-query-and-index-troubleshooting}
 

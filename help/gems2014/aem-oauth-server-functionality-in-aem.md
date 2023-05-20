@@ -1,6 +1,6 @@
 ---
 title: OAuth-serverfunctionaliteit in AEM - Embrace federation en ontleen uw REST APIs!
-description: 'Krijg een inleiding aan het OAuth 2 kader en de Granite OAuth servereigenschap. Adobe Experience Manager (AEM) is geïmplementeerd om te worden uitgevoerd in een OSGi-omgeving en is gebaseerd op REST-beginselen. '
+description: Krijg een inleiding aan het OAuth 2 kader en de Granite OAuth servereigenschap. Adobe Experience Manager (AEM) is geïmplementeerd om te worden uitgevoerd in een OSGi-omgeving en is gebaseerd op REST-beginselen.
 uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced

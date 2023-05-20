@@ -1,16 +1,16 @@
 ---
 title: AEM 6.3 Klaar voor de wereld - Vertaalintegratie & Beste praktijken
-description: 'In deze sessie presenteren we AEM 6.3-mogelijkheden en best practices voor het beheer van meertalige websites. U leert hoe u algemene websites in AEM kunt structureren, hoe u taalkopieën, live kopieën en MSM kunt gebruiken en hoe u vertaalserviceproviders kunt integreren om vertaalprojecten met succes te voltooien. '
+description: In deze sessie presenteren we AEM 6.3-mogelijkheden en best practices voor het beheer van meertalige websites. U leert hoe u algemene websites in AEM kunt structureren, hoe u taalkopieën, live kopieën en MSM kunt gebruiken en hoe u vertaalserviceproviders kunt integreren om vertaalprojecten met succes te voltooien.
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 1a4aaf0e-45f7-4b22-ac32-aee1be111553
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # AEM 6.3 Klaar voor de wereld - Vertaalintegratie &amp; Beste praktijken{#aem-ready-for-the-world-translation-integration-best-practices}
 

@@ -4,13 +4,13 @@ description: Hebt u genoeg van het maken van connectors voor AEM? Kom te leren h
 uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: e7a70973-96ad-4af4-9dd5-c30dfec7b56a
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # In real time en licht: gebeurtenisgestuurde integratie met AEM maken met behulp van Adobe I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
 
@@ -31,4 +31,3 @@ Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
-

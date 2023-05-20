@@ -1,16 +1,16 @@
 ---
-title: 'SPA Editor SDK Diep duiken - Deel 1 - Reageren '
+title: SPA Editor SDK Diep duiken - Deel 1 - Reageren
 description: Diep duik met ons in de ontwikkeling van single-page-Toepassingen die kunnen worden ontworpen gebruikend de Redacteur van de AEM van de Pagina.
 uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: ae85fc7d-73b0-43ba-a7b7-d21ebc6d33ef
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # SPA Editor SDK Diep duiken - Deel 1 - Reageren {#spa-editor-sdk-deep-dive-part-react}
 
