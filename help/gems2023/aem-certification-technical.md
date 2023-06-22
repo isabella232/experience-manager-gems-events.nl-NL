@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: 1f975085f0d25c98fad62e7cc5635216b26ae1d2
+source-git-commit: 1143058f0cb213a765b8cbdab1779fe79b7a4335
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Master de Art of Experience Manager Certification: Klaar, klaar, klaar, krijg Certified!
 
-Dit webinar zal op 28 juni 2023 (8am PST) worden uitgevoerd. Registreer u via deze [koppeling naar gebeurtenispagina](https://adobe.ly/3Ni6XeL).
+Dit webinar wordt uitgevoerd op **28 juni**, 2023 (8am PST). Registreer u via deze [koppeling naar gebeurtenispagina](https://adobe.ly/3Ni6XeL).
 
 ## Sessiebeschrijving
 
